@@ -112,4 +112,9 @@ To further refine your project using **only HTML and CSS**, consider the followi
   - Lazy-load non-critical images: `<img loading="lazy" src="...">`.  
   - Leverage `background-size: cover` and `background-position: center` for CSS backgrounds.
 
+<<<<<<< HEAD
 By applying these **HTML and CSS–focused**
+=======
+By applying these **HTML and CSS–focused** enhancements, you’ll maintain a streamlined workflow, keep dependencies low, and deliver a highly maintainable and future-proof codebase.
+
+>>>>>>> a1ce45b47e08c69f1fcd5251a1503932a84baac4
